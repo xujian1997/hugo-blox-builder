@@ -51,8 +51,8 @@ removePathAccents: true
 build:
   writeStats: true
 enableGitInfo: false
-summaryLength: 30
-paginate: 10
+summaryLength: 50
+paginate: 16
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

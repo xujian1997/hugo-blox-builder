@@ -1,6 +1,6 @@
 {{/* Show related/recommended content. */}}
 {{ if .Params.show_related }}
-  {{ $related := site.RegularPages.Related . | first 5 }}
+  {{ $related := site.RegularPages.Related . | first 8 }}
   {{ with $related }}
 <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
   <div class="text-sm">
