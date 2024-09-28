@@ -22,7 +22,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 8
       filters:
         author: ''
         category: ''
@@ -60,7 +60,7 @@ sections:
     content:
       title: Latest Preprints
       text: ""
-      count: 5
+      count: 8
       filters:
         folders:
           - publication
